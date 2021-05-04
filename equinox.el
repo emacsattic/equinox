@@ -1,4 +1,5 @@
-;;; equinox.el - Code for working out the next equinox/solstice.
+;;; equinox.el --- Code for working out the next equinox/solstice
+
 ;; Copyright 2003 by Dave Pearson <davep@davep.org>
 ;; $Revision: 1.1 $
 
